@@ -1,2 +1,2 @@
 # Machine Learning
- A code repo for learning Nachine Learning and Data Science
+ A code repo for learning Machine Learning and Data Science
