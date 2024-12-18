@@ -1,0 +1,9 @@
+prefix=C:/Users/BIT/OneDrive - Birla Institute of Technology/Desktop/Machine-Learning/Python Concepts/venv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.15 
